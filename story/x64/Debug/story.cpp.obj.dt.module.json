@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "story\\x64\\Debug\\story.obj",
+            "outputs": [
+                "story\\x64\\Debug\\story.cpp.obj.dt.module.json",
+                "story\\x64\\Debug\\story.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
